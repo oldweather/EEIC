@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99c (Web2C 7.5.6)
+The top-level auxiliary file: EIC_proxy_validate.aux
+The style file: copernicus.bst
+Database file #1: database.bib
+Database file #2: bibliography_extra.bib
+You've used 49 entries,
+            2811 wiz_defined-function locations,
+            1279 strings with 21084 characters,
+and the built_in function-call counts, 58093 in all, are:
+= -- 5850
+> -- 3457
+< -- 19
++ -- 1390
+- -- 1110
+* -- 4047
+:= -- 6414
+add.period$ -- 49
+call.type$ -- 49
+change.case$ -- 469
+chr.to.int$ -- 49
+cite$ -- 147
+duplicate$ -- 5101
+empty$ -- 2644
+format.name$ -- 1249
+if$ -- 11387
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 694
+newline$ -- 156
+num.names$ -- 196
+pop$ -- 2570
+preamble$ -- 1
+purify$ -- 468
+quote$ -- 0
+skip$ -- 2955
+stack$ -- 0
+substring$ -- 1977
+swap$ -- 4404
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 426
+warning$ -- 0
+while$ -- 249
+width$ -- 0
+write$ -- 561

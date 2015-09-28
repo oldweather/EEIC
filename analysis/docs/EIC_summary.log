@@ -1,0 +1,268 @@
+This is pdfTeX, Version 3.14159-1.10b (Web2C 7.4.5) (format=pdflatex 2007.11.2)  4 APR 2011 09:24
+**EIC_summary
+(./EIC_summary.tex{/usr/share/texmf/pdftex/config/pdftex.cfg}
+LaTeX2e <2001/06/01>
+Babel <v3.7h> and hyphenation patterns for american, french, german, ngerman, n
+ohyphenation, loaded.
+(/usr/share/texmf/tex/latex/base/article.cls
+Document Class: article 2001/04/21 v1.4e Standard LaTeX document class
+(/usr/share/texmf/tex/latex/base/size11.clo
+File: size11.clo 2001/04/21 v1.4e Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texmf/tex/latex/graphics/graphics.sty
+Package: graphics 2001/07/07 v1.0n Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2001/08/31 v1.1 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 80.
+
+(/usr/share/texmf/tex/latex/graphics/pdftex.def
+File: pdftex.def 2002/06/19 v0.03k graphics/color for pdftex
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+) (./EIC_summary.aux)
+\openout1 = `EIC_summary.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+
+(/usr/share/texmf/tex/context/base/supp-pdf.tex
+(/usr/share/texmf/tex/context/base/supp-mis.tex
+loading : Context Support Macros / Missing
+\protectiondepth=\count88
+\scratchcounter=\count89
+\scratchtoks=\toks15
+\scratchdimen=\dimen105
+\scratchskip=\skip43
+\scratchmuskip=\muskip10
+\scratchbox=\box26
+\scratchread=\read1
+\scratchwrite=\write3
+\zeropoint=\dimen106
+\minusone=\count90
+\thousandpoint=\dimen107
+\emptytoks=\toks16
+\nextbox=\box27
+\nextdepth=\dimen108
+\everyline=\toks17
+\!!counta=\count91
+\!!countb=\count92
+\recursecounter=\count93
+)
+loading : Context Support Macros / PDF
+\nofMPsegments=\count94
+\nofMParguments=\count95
+\everyMPtoPDFconversion=\toks18
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 10.
+ <../ships_list/ship_years.pdf, id=1, 867.24pt x 722.7pt>
+File: ../ships_list/ship_years.pdf Graphic file (type pdf)
+
+<use ../ships_list/ship_years.pdf>
+<../ships_list/ship_count.pdf, id=2, 561.09625pt x 809.0225pt>
+File: ../ships_list/ship_count.pdf Graphic file (type pdf)
+
+<use ../ships_list/ship_count.pdf>
+<../obs_count/ob_years.pdf, id=3, 561.09625pt x 809.0225pt>
+File: ../obs_count/ob_years.pdf Graphic file (type pdf)
+
+<use ../obs_count/ob_years.pdf>
+
+LaTeX Warning: Float too large for page by 16.00609pt on input line 36.
+
+<../obs_count/ob_seasonal.pdf, id=4, 561.09625pt x 809.0225pt>
+File: ../obs_count/ob_seasonal.pdf Graphic file (type pdf)
+
+<use ../obs_count/ob_seasonal.pdf>
+<../individual_logs/Astell_1812-13/Astell.png, id=5, 803.0pt x 568.1225pt>
+File: ../individual_logs/Astell_1812-13/Astell.png Graphic file (type png)
+
+<use ../individual_logs/Astell_1812-13/Astell.png>
+<../individual_logs/Thomas_Grenville_1827-8/Thomas_Grenville.png, id=6, 803.0pt
+ x 568.1225pt>
+File: ../individual_logs/Thomas_Grenville_1827-8/Thomas_Grenville.png Graphic f
+ile (type png)
+
+<use ../individual_logs/Thomas_Grenville_1827-8/Thomas_Grenville.png>
+<../coverage_map/coverage.png, id=7, 602.25pt x 425.59pt>
+File: ../coverage_map/coverage.png Graphic file (type png)
+
+<use ../coverage_map/coverage.png>
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 64.
+ [1
+
+{/usr/share/texmf/dvips/config/pdftex.map}] [2 <../ships_list/ship_years.pdf, p
+age is rotated 90 degrees>] [3 <../ships_list/ship_count.pdf, page is rotated 1
+80 degrees>] [4 <../obs_count/ob_years.pdf>] [5 <../obs_count/ob_seasonal.pdf>]
+ [6 <../individual_logs/Astell_1812-13/Astell.png>] [7 <../individual_logs/Thom
+as_Grenville_1827-8/Thomas_Grenville.png>] [8 <../coverage_map/coverage.png>]
+<../anomaly_map/at_anomaly.png, id=81, 803.0pt x 568.1225pt>
+File: ../anomaly_map/at_anomaly.png Graphic file (type png)
+
+<use ../anomaly_map/at_anomaly.png>
+<../anomaly_ts/at_anom_ts.pdf, id=82, 809.0225pt x 561.09625pt>
+File: ../anomaly_ts/at_anom_ts.pdf Graphic file (type pdf)
+
+<use ../anomaly_ts/at_anom_ts.pdf>
+<../anomaly_ts/at_anom_bwplot.pdf, id=83, 809.0225pt x 561.09625pt>
+File: ../anomaly_ts/at_anom_bwplot.pdf Graphic file (type pdf)
+
+<use ../anomaly_ts/at_anom_bwplot.pdf>
+<../anomaly_ts/at_anom_bwplot_byShip.pdf, id=84, 1300.86pt x 867.24pt>
+File: ../anomaly_ts/at_anom_bwplot_byShip.pdf Graphic file (type pdf)
+
+<use ../anomaly_ts/at_anom_bwplot_byShip.pdf>
+
+LaTeX Warning: Float too large for page by 10.13457pt on input line 101.
+
+[9 <../anomaly_map/at_anomaly.png>] [10 <../anomaly_ts/at_anom_ts.pdf, page is 
+rotated 90 degrees>] [11 <../anomaly_ts/at_anom_bwplot.pdf, page is rotated 90 
+degrees>] [12 <../anomaly_ts/at_anom_bwplot_byShip.pdf, page is rotated 90 degr
+ees>] <../anomaly_map/sst_anomaly.png, id=121, 803.0pt x 568.1225pt>
+File: ../anomaly_map/sst_anomaly.png Graphic file (type png)
+
+<use ../anomaly_map/sst_anomaly.png>
+<../anomaly_ts/sst_anom_ts.pdf, id=122, 809.0225pt x 561.09625pt>
+File: ../anomaly_ts/sst_anom_ts.pdf Graphic file (type pdf)
+
+<use ../anomaly_ts/sst_anom_ts.pdf> [13 <../anomaly_map/sst_anomaly.png>]
+[14 <../anomaly_ts/sst_anom_ts.pdf, page is rotated 90 degrees>]
+<../anomaly_map/pre_anomaly.png, id=138, 803.0pt x 568.1225pt>
+File: ../anomaly_map/pre_anomaly.png Graphic file (type png)
+
+<use ../anomaly_map/pre_anomaly.png>
+<../anomaly_ts/pre_anom_ts.pdf, id=139, 809.0225pt x 561.09625pt>
+File: ../anomaly_ts/pre_anom_ts.pdf Graphic file (type pdf)
+
+<use ../anomaly_ts/pre_anom_ts.pdf>
+<../anomaly_ts/pre_anom_bwplot.pdf, id=140, 809.0225pt x 561.09625pt>
+File: ../anomaly_ts/pre_anom_bwplot.pdf Graphic file (type pdf)
+
+<use ../anomaly_ts/pre_anom_bwplot.pdf>
+<../anomaly_ts/pre_anom_bwplot_byShip.pdf, id=141, 1300.86pt x 867.24pt>
+File: ../anomaly_ts/pre_anom_bwplot_byShip.pdf Graphic file (type pdf)
+
+<use ../anomaly_ts/pre_anom_bwplot_byShip.pdf>
+
+LaTeX Warning: Float too large for page by 24.3429pt on input line 153.
+
+[15 <../anomaly_map/pre_anomaly.png>] [16 <../anomaly_ts/pre_anom_ts.pdf, page 
+is rotated 90 degrees>] [17 <../anomaly_ts/pre_anom_bwplot.pdf, page is rotated
+ 90 degrees>] [18 <../anomaly_ts/pre_anom_bwplot_byShip.pdf, page is rotated 90
+ degrees>]
+<../sympiesometer/pre_anomaly_map.pdf, id=178, 809.0225pt x 561.09625pt>
+File: ../sympiesometer/pre_anomaly_map.pdf Graphic file (type pdf)
+
+<use ../sympiesometer/pre_anomaly_map.pdf>
+<../sympiesometer/sym_anom_ts.pdf, id=179, 809.0225pt x 561.09625pt>
+File: ../sympiesometer/sym_anom_ts.pdf Graphic file (type pdf)
+
+<use ../sympiesometer/sym_anom_ts.pdf>
+<../sympiesometer/sym_v_normal_ts.pdf, id=180, 809.0225pt x 561.09625pt>
+File: ../sympiesometer/sym_v_normal_ts.pdf Graphic file (type pdf)
+
+<use ../sympiesometer/sym_v_normal_ts.pdf>
+<../sympiesometer/sym_v_pre.pdf, id=181, 809.0225pt x 561.09625pt>
+File: ../sympiesometer/sym_v_pre.pdf Graphic file (type pdf)
+
+<use ../sympiesometer/sym_v_pre.pdf> [19 <../sympiesometer/pre_anomaly_map.pdf,
+ page is rotated 90 degrees>] [20 <../sympiesometer/sym_anom_ts.pdf, page is ro
+tated 90 degrees>] [21 <../sympiesometer/sym_v_normal_ts.pdf, page is rotated 9
+0 degrees>] [22 <../sympiesometer/sym_v_pre.pdf, page is rotated 90 degrees>]
+<../winds/term_frequencies.pdf, id=226, 561.09625pt x 809.0225pt>
+File: ../winds/term_frequencies.pdf Graphic file (type pdf)
+
+<use ../winds/term_frequencies.pdf>
+
+LaTeX Warning: Float too large for page by 84.00612pt on input line 197.
+
+<../winds/climate_v_descriptor.pdf, id=227, 809.0225pt x 561.09625pt>
+File: ../winds/climate_v_descriptor.pdf Graphic file (type pdf)
+
+<use ../winds/climate_v_descriptor.pdf>
+<../anomaly_map/ws_anomaly.png, id=228, 803.0pt x 568.1225pt>
+File: ../anomaly_map/ws_anomaly.png Graphic file (type png)
+
+<use ../anomaly_map/ws_anomaly.png>
+<../anomaly_ts/ws_anom_ts.pdf, id=229, 809.0225pt x 561.09625pt>
+File: ../anomaly_ts/ws_anom_ts.pdf Graphic file (type pdf)
+
+<use ../anomaly_ts/ws_anom_ts.pdf>
+<../anomaly_ts/ws_anom_bwplot.pdf, id=230, 809.0225pt x 561.09625pt>
+File: ../anomaly_ts/ws_anom_bwplot.pdf Graphic file (type pdf)
+
+<use ../anomaly_ts/ws_anom_bwplot.pdf>
+<../anomaly_ts/ws_anom_bwplot_byShip.pdf, id=231, 1300.86pt x 867.24pt>
+File: ../anomaly_ts/ws_anom_bwplot_byShip.pdf Graphic file (type pdf)
+
+<use ../anomaly_ts/ws_anom_bwplot_byShip.pdf>
+
+LaTeX Warning: Float too large for page by 37.9429pt on input line 237.
+
+[23 <../winds/term_frequencies.pdf>] [24 <../winds/climate_v_descriptor.pdf, pa
+ge is rotated 90 degrees>] [25 <../anomaly_map/ws_anomaly.png>] [26 <../anomaly
+_ts/ws_anom_ts.pdf, page is rotated 90 degrees>] [27 <../anomaly_ts/ws_anom_bwp
+lot.pdf, page is rotated 90 degrees>] [28 <../anomaly_ts/ws_anom_bwplot_byShip.
+pdf, page is rotated 90 degrees>] (./EIC_summary.aux) ) 
+Here is how much of TeX's memory you used:
+ 1065 strings out of 95437
+ 15765 string characters out of 1189055
+ 60293 words of memory out of 1000001
+ 4073 multiletter control sequences out of 10000+50000
+ 7937 words of font info for 28 fonts, out of 500000 for 1000
+ 14 hyphenation exceptions out of 1000
+ 25i,6n,22p,811b,338s stack positions out of 1500i,500n,5000p,200000b,5000s
+ 297 PDF objects out of 300000
+ 0 named destinations out of 131072
+ 135 words of extra memory for PDF output out of 65536
+{/usr/share/texmf/dvips/
+tetex/bbad153f.enc}</usr/share/texmf/fonts/type1/bluesky/cm/cmsy10.pfb>{/usr/sh
+are/texmf/dvips/tetex/f7b6d320.enc}</usr/share/texmf/fonts/type1/bluesky/cm/cmr
+8.pfb>{/usr/share/texmf/dvips/tetex/aae443f0.enc}</usr/share/texmf/fonts/type1/
+bluesky/cm/cmmi10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmsy8.pfb>{/usr/
+share/texmf/dvips/tetex/74afc74c.enc}</usr/share/texmf/fonts/type1/bluesky/cm/c
+mti10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr10.pfb></usr/share/texmf/
+fonts/type1/bluesky/cm/cmmi8.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr12
+.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr17.pfb>
+Output written on EIC_summary.pdf (28 pages, 27227708 bytes).

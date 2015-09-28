@@ -1,0 +1,332 @@
+\begin{thebibliography}{49}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{{\tt #1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem[{Alcoforado et~al.(2012)Alcoforado, Vaquero, Trigo, and
+  Taborda}]{alcoforado12portobs}
+Alcoforado, M.~J., Vaquero, J.~M., Trigo, R.~M., and Taborda, J.~P.: Early
+  Portuguese meteorological measurements (18th century), Clim. Past, 8,
+  353--371, \doi{10.5194/cp-8-353-2012}, 2012.
+
+\bibitem[{Allan and Ansell(2006)}]{allan06meansealevelpressure}
+Allan, R.~J. and Ansell, T.~J.: A new globally complete monthly historical
+  gridded mean sea level pressure data set ({HadSLP2}): 1850-2003, J. Climate,
+  19, 5816--5842, 2006.
+
+\bibitem[{Ansell et~al.(2006)Ansell, Jones, Allan, Lister, Parker, Brunet,
+  Moberg, Jacobeit, Brohan, Rayner, Aguilar, Alexandersson, Barriendos,
+  Brandsma, Cox, Della-Marta, Drebs, Founda, Gerstengarbe, Hickey, Jonsson,
+  Luterbacher, Nordli, Oesterle, Petrakis, Philipp, Rodwell, Saladie, Sigro,
+  Slonosky, Srnec, Swail, Garcia-Suarez, Tuomenvirta, Wang, Wanner, Werner,
+  Wheeler, and Xoplaki}]{ansell06emulate}
+Ansell, T.~J., Jones, P.~D., Allan, R.~J., Lister, D., Parker, D.~E., Brunet,
+  M., Moberg, A., Jacobeit, J., Brohan, P., Rayner, N.~A., Aguilar, E.,
+  Alexandersson, H., Barriendos, M., Brandsma, T., Cox, N.~J., Della-Marta,
+  P.~M., Drebs, A., Founda, D., Gerstengarbe, F., Hickey, K., Jonsson, T.,
+  Luterbacher, J., Nordli, O., Oesterle, H., Petrakis, M., Philipp, A.,
+  Rodwell, M.~J., Saladie, O., Sigro, J., Slonosky, V., Srnec, L., Swail, V.,
+  Garcia-Suarez, A.~M., Tuomenvirta, H., Wang, X., Wanner, H., Werner, P.,
+  Wheeler, D., and Xoplaki, E.: Daily mean sea level pressure reconstructions
+  for the European-North Atlantic Region for the period 1850-2003, J. Climate,
+  19, 2717--2742, \doi{10.1175/JCLI3775.1}, 2006.
+
+\bibitem[{Berry and Kent(2005)}]{Berry05}
+Berry, D.~I. and Kent, E.~C.: The effect of instrument exposure on marine air
+  temperatures: an assessment using VOSClim data, International Journal of
+  Climatology, 25, 1007--22, \doi{10.1002/joc.1178}, 2005.
+
+\bibitem[{Briffa(2000)}]{briffa00holocene}
+Briffa, K.~R.: Annual climate variability in the Holocene: interpreting the
+  message of ancient trees, Quaternary Sci. Rev., 19, 87--105, 2000.
+
+\bibitem[{Briffa et~al.(2001)Briffa, Osborn, Schweingruber, Harris, and
+  Jones}]{briffa01ageband}
+Briffa, K.~R., Osborn, T.~J., Schweingruber, F.~H., Harris, I.~C., and Jones,
+  P.~D.: Low-frequency temperature variations from a northern tree ring density
+  network, J. Geophys. Res., 106, 2929--2941, 2001.
+
+\bibitem[{Briffa et~al.(2004)Briffa, Osborn, and
+  Schweingruber}]{briffa04treerings}
+Briffa, K.~R., Osborn, T.~J., and Schweingruber, F.~H.: Large-scale temperature
+  inferences from tree rings: a review, Global Planet. Change, 40, 11--26,
+  2004.
+
+\bibitem[{Brohan et~al.(2006)Brohan, Kennedy, Harris, Tett, and
+  Jones}]{brohan06hadcrut3}
+Brohan, P., Kennedy, J., Harris, I., Tett, S. F.~B., and Jones, P.~D.:
+  Uncertainty Estimates in Regional and Global Observed Temperature Changes: a
+  new dataset from 1850, J. Geophys. Res., 111, D12\,106,
+  \doi{10.1029/2005JD006548}, 2006.
+
+\bibitem[{Brohan et~al.(2009)Brohan, Allan, Freeman, Waple, Wheeler, Wilkinson,
+  and Woodruff}]{brohan09digitisation}
+Brohan, P., Allan, R., Freeman, J.~E., Waple, A., Wheeler, D., Wilkinson, C.,
+  and Woodruff, S.: Marine observations of old weather, Bull. Am. Meteorol.
+  Soc., 90, 219--230, \doi{10.1175/2008BAMS2522.1}, 2009.
+
+\bibitem[{Brohan et~al.(2010)Brohan, Ward, Willets, Wilkinson, Allan, and
+  Wheeler}]{brohan10corral}
+Brohan, P., Ward, C., Willets, G., Wilkinson, C., Allan, R., and Wheeler, D.:
+  Arctic marine climate of the early nineteenth century, Clim. Past, 6,
+  315--324, \doi{10.5194/cp-6-315-2010}, 2010.
+
+\bibitem[{Camuffo and Bertolin(2011)}]{camuffo11medici}
+Camuffo, D. and Bertolin, C.: The earliest temperature observations in the
+  world: the Medici Network (1654-1670), Clim. Change, pp. 335--363,
+  \doi{10.1007/s10584-011-0142-5}, 2011.
+
+\bibitem[{Chenoweth(1996)}]{chenoweth96}
+Chenoweth, M.: Ship's Logbooks and ``The Year Without an Summer'', BAMS, 77,
+  2077--94, 1996.
+
+\bibitem[{Chenoweth(2000)}]{chenoweth00homogenization}
+Chenoweth, M.: A new methodology for Homogenization of 19th century marine air
+  temperature data, J. Geophys. Res., 105, 29\,145--29\,154, 2000.
+
+\bibitem[{CLIWOC(2003)}]{cliwoc03dictionary}
+CLIWOC: CLIWOC multilingual dictionary: an English-Spanish-Dutch-French
+  dictionary of wind force terms used by mariners from 1750 to 1850, KNMI
+  publication 205, De Bildt, The Netherlands, 2003.
+
+\bibitem[{Cook et~al.(2004)Cook, Esper, and D'Arrigo}]{cook04millennium}
+Cook, E.~R., Esper, J., and D'Arrigo, R.~D.: Extra-tropical Northern Hemisphere
+  land temperature variability over the past 1000 years, Quaternary Sci. Rev.,
+  23, 2063--2074, 2004.
+
+\bibitem[{Dalrymple(1778)}]{Dalrymple78}
+Dalrymple, A.: Journal of a voyage to the East Indies in the ship Grenville,
+  Captain Burnet Abercrombie, in the year 1775, Philos. Trans. R. Soc. London,
+  68, 389--418, 1778.
+
+\bibitem[{D'Arrigo et~al.(2006)D'Arrigo, Wilson, and Jacoby}]{darrigo06context}
+D'Arrigo, R.~D., Wilson, R., and Jacoby, G.: On the long-term context for late
+  twentieth century warming, J. Geophys. Res., \doi{10.1029/2005JD006352},
+  2006.
+
+\bibitem[{Esper et~al.(2002)Esper, Cook, and Schweingruber}]{esper02paleo}
+Esper, J., Cook, E.~R., and Schweingruber, F.~H.: Low-Frequency Signals in Long
+  Tree-Ring Chronologies for Reconstructing Past Temperature Variability,
+  Science, 295, 2250--2253, 2002.
+
+\bibitem[{Farrington(1999)}]{Farrington99}
+Farrington, A.: A Catalogue of East India Company Ships, Journals and Logs
+  1600-1834, British Library, 1999.
+
+\bibitem[{Farrington et~al.(1998)Farrington, Lubker, Radok, and
+  Woodruff}]{farrington98}
+Farrington, A., Lubker, S., Radok, U., and Woodruff, S.: South Atlantic winds
+  and weather during and following the Little Ice Age - a pilot study of
+  English East India Company Ship Logs, Meteorol. Atmos. Phys., 67, 253--257,
+  1998.
+
+\bibitem[{Foster(2010)}]{Foster10}
+Foster, W.: The Voyage of Sir Henry Middleton to the Moluccas, 1604-1606,
+  Hakluyt Society, 2010.
+
+\bibitem[{Frank et~al.(2010)Frank, Esper, Zorita, and Wilson}]{frank10noodle}
+Frank, D., Esper, J., Zorita, E., and Wilson, R.: A noodle, hockey stick, and
+  spaghetti plate: a perspective on high‐resolution paleoclimatology, WIREs
+  Climate Change, 1, 507--16, \doi{10.1002/wcc.53}, 2010.
+
+\bibitem[{Gent et~al.(2011)Gent, Danabasoglu, Donner, Holland, Hunke, Jayne,
+  Lawrence, Neale, Rasch, Vertenstein, Worley, Yang, and Zhang}]{gent11ccsm4}
+Gent, P.~R., Danabasoglu, G., Donner, L.~J., Holland, M.~M., Hunke, E.~C.,
+  Jayne, S.~R., Lawrence, D.~M., Neale, R.~B., Rasch, P.~J., Vertenstein, M.,
+  Worley, P.~H., Yang, Z.-L., and Zhang, M.: The Community Climate System Model
+  Version 4, J. Climate, 24, 4973--4991, \doi{10.1175/2011JCLI4083.1}, 2011.
+
+\bibitem[{Hegerl et~al.(2006)Hegerl, Crowley, Hyde, and
+  Frame}]{hegerl06climsens}
+Hegerl, G.~C., Crowley, T.~J., Hyde, W.~T., and Frame, D.~J.: Climate
+  sensitivity constrained by temperature reconstructions over the past seven
+  centuries, Nature, 440, 1029--1032, 2006.
+
+\bibitem[{Jansen et~al.(2007)Jansen, Overpeck, Briffa, Duplessy, Joos,
+  Masson-Delmotte, Olago, Otto-Bliesner, Peltier, Rahmstorf, Ramesh, Raynaud,
+  Rind, Solomina, Villalba, and Zhang}]{jansen07ipcc}
+Jansen, E., Overpeck, J., Briffa, K.~R., Duplessy, J.~C., Joos, F.,
+  Masson-Delmotte, V., Olago, D., Otto-Bliesner, B., Peltier, W.~R., Rahmstorf,
+  S., Ramesh, R., Raynaud, D., Rind, D., Solomina, O., Villalba, R., and Zhang,
+  D.: PalaeoClimate, chap. 6 of Climate Change 2007: The Physical Science
+  Basis. Contribution of Working Group I to the Fourth Assessment Report of the
+  Intergovernmental Panel on Climate Change [Solomon, S., Qin, D., Manning, M.,
+  Marquis, M., Averyt, K.B., Tignor, M., Miller, H.L. and Chen, Z. (eds.)].,
+  pp. 433--497, Cambridge University Press, 2007.
+
+\bibitem[{Jones et~al.(1998)Jones, Briffa, Barnett, and Tett}]{jones98proxy}
+Jones, P., Briffa, K., Barnett, T.~P., and Tett, S. F.~B.: High-resolution
+  palaeoclimatic records for the last millennium : interpretation, integration
+  and comparison with General Circulation Model control run temperatures,
+  Holocene, 8, 455--471, 1998.
+
+\bibitem[{Jones and Mann(2004)}]{jones04millennia}
+Jones, P.~D. and Mann, M.~E.: Climate over past millennia, Rev. Geophys., 42,
+  \doi{10.1029/2003RG000143}, 2004.
+
+\bibitem[{Jones et~al.(2001)Jones, Briffa, and Osborn}]{jones01millennium}
+Jones, P.~D., Briffa, K.~R., and Osborn, T.~J.: The evolution of climate over
+  the last millennium, Science, 292, 662--667, 2001.
+
+\bibitem[{Jones et~al.(2009)Jones, Briffa, Osborn, Lough, van Ommen, Vinther,
+  Luterbacher, Wahl, Zwiers, Mann, Schmidt, Ammann, Buckley, Cobb, Esper,
+  Goose, Graham, Jansen, Kiefer, Kull, Kuttel, Mosley-Thompson, Overpeck,
+  Riedwyl, Schulz, Tudhope, Villalba, Wanner, Wolff, and
+  Xoplaki}]{jones09millennium}
+Jones, P.~D., Briffa, K.~R., Osborn, T.~J., Lough, J.~M., van Ommen, T.~D.,
+  Vinther, B.~M., Luterbacher, J., Wahl, E.~R., Zwiers, F.~W., Mann, M.~E.,
+  Schmidt, G.~A., Ammann, C.~M., Buckley, B.~M., Cobb, K.~M., Esper, J., Goose,
+  H., Graham, N., Jansen, E., Kiefer, T., Kull, C., Kuttel, M.,
+  Mosley-Thompson, E., Overpeck, J.~T., Riedwyl, N., Schulz, M., Tudhope,
+  A.~W., Villalba, R., Wanner, H., Wolff, E., and Xoplaki, E.: High-resolution
+  palaeoclimatology of the last millennium: a review of current status and
+  future prospects, Holocene, 19, 3--49, \doi{10.1177/0959683608098952}, 2009.
+
+\bibitem[{Mann and Jones(2003)}]{mann03twok}
+Mann, M.~E. and Jones, P.~D.: Global surface temperatures over the past two
+  millennia, Geophys. Res. Lett., \doi{10.1029/2003GL017814}, 2003.
+
+\bibitem[{Mann et~al.(1999)Mann, Bradley, and Hughes}]{mann99}
+Mann, M.~E., Bradley, R.~S., and Hughes, M.~K.: {N}orthern {H}emisphere
+  temperatures during the past millennium: inferences, uncertainties, and
+  limitations, Geophys. Res. Lett., 26, 759--762, 1999.
+
+\bibitem[{Mann et~al.(2012)Mann, Fuentes, and Rutherford}]{mann12volctreering}
+Mann, M.~E., Fuentes, J.~D., and Rutherford, S.: Underestimation of volcanic
+  cooling in tree-ring-based reconstructions of hemispheric temperatures,
+  Nature Geosci., \doi{10.1038/ngeo1394}, 2012.
+
+\bibitem[{Marsland et~al.(2003)Marsland, Haak, Jungclaus, Latif, and
+  Roeske}]{marsland03mpisim}
+Marsland, S.~J., Haak, H., Jungclaus, J.~H., Latif, M., and Roeske, F.: The
+  Max-Planck-Institute global ocean/sea ice model with orthogonal curvilinear
+  coordinates, Ocean Modelling, 5, 91--127, 2003.
+
+\bibitem[{Middleton(1964)}]{middleton64}
+Middleton, W. E.~K.: The history of the barometer, Baros Books, 1964.
+
+\bibitem[{Moberg et~al.(2005)Moberg, Sonechkin, Holmgren, Datsenko, and
+  Karlen}]{moberg05proxy}
+Moberg, A., Sonechkin, D.~M., Holmgren, J.~K., Datsenko, N.~M., and Karlen, W.:
+  Highly variable Northern Hemisphere temperatures reconstructed from low- and
+  high-resolution proxy data, Nature, 433, 613--7, 2005.
+
+\bibitem[{Oerlemans(2005)}]{oerlemans05climate}
+Oerlemans, J.: Extracting a Climate Signal from 169 Glacier Records, Science,
+  308, 675--677, \doi{10.1126/science.1}, 2005.
+
+\bibitem[{Raddatz et~al.(2007)Raddatz, Reick, Knorr, Kattge, Roeckner, Schnur,
+  Schnitzler, Wetzel, and Jungclaus}]{raddatz07carbon}
+Raddatz, T.~J., Reick, C.~H., Knorr, W., Kattge, J., Roeckner, E., Schnur, R.,
+  Schnitzler, K.~G., Wetzel, P., and Jungclaus, J.: Will the tropical land
+  biosphere dominate the climate-carbon cycle feedback during the twenty-first
+  century?, Clim. Dyn., 29, 565--574, \doi{10.1007/s00382-007-0247-8}, 2007.
+
+\bibitem[{Rayner et~al.(2003)Rayner, Parker, Horton, Folland, Alexander,
+  Rowell, Kent, and Kaplan}]{rayner03HadISST1}
+Rayner, N.~A., Parker, D.~E., Horton, E.~B., Folland, C.~K., Alexander, L.~V.,
+  Rowell, D.~P., Kent, E.~C., and Kaplan, A.: Global analyses of {SST}, sea ice
+  and night marine air temperature since the late nineteenth century, J.
+  Geophys. Res., 108, \doi{10.1029/2002JD002670}, 2003.
+
+\bibitem[{Rutherford et~al.(2005)Rutherford, Mann, Osborn, Briffa, Jones,
+  Bradley, and Hughes}]{rutherford05proxy}
+Rutherford, S., Mann, M.~E., Osborn, T.~J., Briffa, K.~R., Jones, P.~D.,
+  Bradley, R.~S., and Hughes, M.~K.: Proxy-Based Northern Hemisphere Surface
+  Temperature Reconstructions: Sensitivity to Method, Predictor Network, Target
+  Season, and Target Domain, J. Climate, 18, 2308--2329,
+  \doi{10.1175/JCLI3351.1}, 2005.
+
+\bibitem[{Schmidt et~al.(2006)Schmidt, Ruedy, Hansen, Aleinov, Bell, Bauer,
+  Baue, Cairns, Canut, Cheng, Genio, Faluvegi, Friend, Hall, Hu, Kelley, Kiang,
+  Koch, Lacis, Lerner, Lo, Miller, Nazarenko, Oinas, Perlwitz, Perlwitz, Rind,
+  Romanou, Russell, Sato, Shindell, Stone, Sun, Tausnev, Thresher, and
+  Yao}]{schmidt06giss}
+Schmidt, G.~A., Ruedy, R., Hansen, J.~E., Aleinov, I., Bell, N., Bauer, M.,
+  Baue, S., Cairns, B., Canut, V., Cheng, Y., Genio, A.~D., Faluvegi, G.,
+  Friend, A.~D., Hall, T.~M., Hu, Y., Kelley, M., Kiang, N.~Y., Koch, D.,
+  Lacis, A.~A., Lerner, J., Lo, K.~K., Miller, R.~L., Nazarenko, L., Oinas, V.,
+  Perlwitz, J., Perlwitz, J., Rind, D., Romanou, A., Russell, G.~L., Sato, M.,
+  Shindell, D.~T., Stone, P.~H., Sun, S., Tausnev, N., Thresher, D., and Yao,
+  M.-S.: Present day atmospheric simulations using {GISS} {Model} {E}:
+  {C}omparison to in-situ, satellite and reanalysis data, J. Climate, 19,
+  153--192, 2006.
+
+\bibitem[{Schmidt et~al.(2011)Schmidt, Jungclaus, Ammann, Bard, Braconnot,
+  Crowley, Delaygue, Joos, Krivova, Muscheler, Otto-Bliesner, Pongratz,
+  Shindell, Solanki, Steinhilber, and Vieira}]{schmidt11forcing}
+Schmidt, G.~A., Jungclaus, J.~H., Ammann, C.~M., Bard, E., Braconnot, P.,
+  Crowley, T.~J., Delaygue, G., Joos, F., Krivova, N.~A., Muscheler, R.,
+  Otto-Bliesner, B.~L., Pongratz, J., Shindell, D.~T., Solanki, S.~K.,
+  Steinhilber, F., and Vieira, L. E.~A.: Climate forcing reconstructions for
+  use in PMIP simulations of the last millennium (v1.0), Geosci. Model Devel.,
+  4, 33--45, \doi{10.5194/gmd-4-33-2011}, 2011.
+
+\bibitem[{Taylor et~al.(2012)Taylor, Stouffer, and Meehl}]{taylor12cmip5}
+Taylor, K.~E., Stouffer, R.~J., and Meehl, G.~A.: An Overview of {CMIP5} and
+  the Experiment Design, Bull. Am. Meteorol. Soc., 93, 485--498,
+  \doi{10.1175/BAMS-D-11-00094.1}, 2012.
+
+\bibitem[{Uppala et~al.(2005)Uppala, K\aa{}llberg, Simmons, Andrae,
+  da~Costa~Bechtold, Fiorino, Gibson, Haseler, Hernandez, Kelly, Li, Onogi,
+  Saarinen, Sokka, Allan, Andersson, Arpe, Balmaseda, Beljaars, van~de Berg,
+  Bidlot, Bormann, Caires, Chevallier, Dethof, Dragosavac, Fisher, Fuentes,
+  Hagemann, H\'{o}lm, Hoskins, Isaksen, Janssen, Jenne, McNally, Mahfouf,
+  Morcrette, Rayner, Saunders, Simon, Sterl, Trenberth, Untch, Vasiljevic,
+  Viterbo, and Woollen}]{uppala05reanalysis}
+Uppala, S.~M., K\aa{}llberg, P.~W., Simmons, A.~J., Andrae, U.,
+  da~Costa~Bechtold, V., Fiorino, M., Gibson, J.~K., Haseler, J., Hernandez,
+  A., Kelly, G.~A., Li, X., Onogi, K., Saarinen, S., Sokka, N., Allan, R.~P.,
+  Andersson, E., Arpe, K., Balmaseda, M.~A., Beljaars, A. C.~M., van~de Berg,
+  L., Bidlot, J., Bormann, N., Caires, S., Chevallier, F., Dethof, A.,
+  Dragosavac, M., Fisher, M., Fuentes, M., Hagemann, S., H\'{o}lm, E., Hoskins,
+  B.~J., Isaksen, L., Janssen, P. A. E.~M., Jenne, R., McNally, A.~P., Mahfouf,
+  J.-F., Morcrette, J.-J., Rayner, N.~A., Saunders, R.~W., Simon, P., Sterl,
+  A., Trenberth, K.~E., Untch, A., Vasiljevic, D., Viterbo, P., and Woollen,
+  J.: The {ERA-40} re-analysis., Q. J. R. Meteorol. Soc., 131, 2961--3012,
+  \doi{10.1256/qj.04.176}, 2005.
+
+\bibitem[{Wagner and Zorita(2005)}]{wagner05dalton}
+Wagner, S. and Zorita, E.: The influence of volcanic, solar and CO2 forcing on
+  the temperatures in the Dalton Minimum (1790--1830): a model study, Clim.
+  Dyn., 25, 205--218, \doi{10.107/s00382-005-0029-0}, 2005.
+
+\bibitem[{Watanabe et~al.(2010)Watanabe, Hajima, Sudo, Nagashima, Takemura,
+  Okajima, Nozawa, Kawase, Abe, Yokohata, Ise, Sato, Kato, Takata, Emori, and
+  Kawamiya}]{watanabe10mirocesm}
+Watanabe, S., Hajima, T., Sudo, K., Nagashima, T., Takemura, T., Okajima, H.,
+  Nozawa, T., Kawase, H., Abe, M., Yokohata, T., Ise, T., Sato, H., Kato, E.,
+  Takata, K., Emori, S., and Kawamiya, M.: MIROC-ESM 2010: model description
+  and basic results of CMIP5-20c3m experiments, Geosci. Model Devel., 4,
+  845--872, \doi{10.5194/gmd-4-845-2011}, 2010.
+
+\bibitem[{Wheeler et~al.(2006)Wheeler, Herrera, Koek, Wilkinson, Konnen, del
+  Rosario~Prieto, Jones, and Casale}]{wheeler06cliwoc}
+Wheeler, D., Herrera, R.~G., Koek, F., Wilkinson, C., Konnen, G., del
+  Rosario~Prieto, M., Jones, P.~D., and Casale, R.: CLIWOC, Climatological
+  database for the world's oceans, European Commission, 2006.
+
+\bibitem[{Woodruff(2007)}]{woodruff07imma}
+Woodruff, S.: Archival of data other than in IMMT format: The International
+  Maritime Meteorological Archive (IMMA) format, in Expert Team on Marine
+  Climatology, Second Session, Geneva, Switzerland, 26-27 March 2007 (Annex
+  VII). JCOMM Technical Report No. 40, 68-101., 2007.
+
+\bibitem[{Wu et~al.(submitted)Wu, Li, Ji, Xin, Li, Wang, Zhang, Li, Zhang, Wei,
+  Shi, Wu, Zhang, Chu, Jie, Liu, Wang, Liu, Li, Dong, Liu, and Zhang}]{wu12bcc}
+Wu, T., Li, W., Ji, J., Xin, X., Li, L., Wang, Z., Zhang, Y., Li, J., Zhang,
+  F., Wei, M., Shi, X., Wu, F., Zhang, L., Chu, M., Jie, W., Liu, Y., Wang, F.,
+  Liu, X., Li, Q., Dong, M., Liu, Q., and Zhang, J.: Global carbon budgets
+  simulated by the Beijing Climate Center Climate System Model for the last
+  century, J. Climate, submitted.
+
+\bibitem[{Zhou et~al.(2008)Zhou, Wu, Wen, Li, and Wang}]{zhou08fgoals}
+Zhou, T., Wu, B., Wen, X., Li, L., and Wang, B.: A Fast Version of LASG/IAP
+  Climate System Model and Its 1000-year Control Integration, Adv. Atmos. Sci.,
+  25, 655--672, 2008.
+
+\end{thebibliography}
